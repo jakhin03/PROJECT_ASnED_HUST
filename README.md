@@ -9,7 +9,7 @@
 ## Environment
 
 ## Usage
-	* Install required module:
+* Install required module:
 ```
 pip install -r requirements.txt
 ```
